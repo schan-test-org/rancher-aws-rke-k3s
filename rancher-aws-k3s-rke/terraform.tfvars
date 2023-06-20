@@ -44,7 +44,8 @@ rancher_helm_repository = "https://releases.rancher.com/server-charts/latest"
 rancher_kubernetes_version = "v1.24.13+k3s1"
 
 # Rancher server version (format: v0.0.0)
-rancher_version = "2.7.3"
+# rancher_version = "2.7.3"
+rancher_version = "2.6.13"
 
 # Instance type used for all EC2 windows instances
 windows_instance_type = "t3a.large"
