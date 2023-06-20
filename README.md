@@ -1,4 +1,4 @@
-# REF < RANCHER v2.7 >
+# REF < RANCHER v2.6.13 >
 
 ## rancher-aws-k3s-rke 배포시 주의사항
 
